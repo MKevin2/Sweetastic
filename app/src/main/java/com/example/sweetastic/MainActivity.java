@@ -21,4 +21,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void paraAspectos(View view){
+        Intent intent = new Intent(this, AspectosActivity.class);
+        startActivity(intent);
+    }
+
 }

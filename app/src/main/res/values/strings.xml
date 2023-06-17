@@ -1,20 +1,21 @@
 <resources>
     <string name="app_name">Sweetastic</string>
-    <string name="titulo">PLÁSTICO</string>
+    <string name="titulo_home">PLÁSTICO</string>
     <string name="subtitulo">Uso e suas características</string>
 
+    <string name="titulo_usos">USOS</string>
+    <string name="usos_texto_1">O plástico é usado para milhares coisas e muitas delas estão presentes no nosso dia-a-dia.</string>
+    <string name="usos_texto_2">As principais aplicação para o plástico são:</string>
+    <string name="usos_texto_3">Pode ser utilizado em embalagens, como de bolsas, garrafas, caixas, alimentos em geral, embalagens destinados a compostos químicos, frascos, rolhas, tampas, cápsulas, além de isolantes para fio e peças automobilísticas</string>
 
-    <string name="docinho" />
-    <string name="logo" />
-    <string name="folha1" />
-    <string name="folha2" />
-    <string name="folha3" />
-    <string name="folha4" />
-    <string name="folha5" />
-    <string name="folha6" />
-    <string name="usos" />
-    <string name="home" />
-    <string name="pontos" />
-    <string name="aspectos" />
-    <string name="reciclagem" />
+    <string name="titulo_aspectos">ASPECTOS</string>
+    <string name="aspectos_texto_1">O plástico possúi diversas características, o que explica o fato dele ser tão utilizado. As principais são as seguintes:</string>
+    <string name="aspectos_texto_2">• Possui grande maleabilidade podendo se adaptar em vários formatos;</string>
+    <string name="aspectos_texto_3">• É um material de baixo custo;</string>
+    <string name="aspectos_texto_4">• Tem boa resistência;</string>
+    <string name="aspectos_texto_5">• Ótimo desempenho e qualidade;</string>
+    <string name="aspectos_texto_6">• Funcionam como substitutos do metal.</string>
+
+
+    <string name="imagem_desc" />
 </resources>
