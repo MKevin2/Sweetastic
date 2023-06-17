@@ -6,19 +6,16 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity {
-
-    public final static String EXTRA_MESSAGE = "com.example.sweetastic.MESSAGE";
+public class UsosActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_usos);
     }
 
-    public void paraUsos(View view){
-        Intent intent = new Intent(this, UsosActivity.class);
+    public void paraHome(View view){
+        Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
-
 }
