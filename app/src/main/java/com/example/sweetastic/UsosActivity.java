@@ -23,4 +23,9 @@ public class UsosActivity extends AppCompatActivity {
         Intent intent = new Intent(this, AspectosActivity.class);
         startActivity(intent);
     }
+
+    public void paraPontos(View view){
+        Intent intent = new Intent(this, PontosActivity.class);
+        startActivity(intent);
+    }
 }

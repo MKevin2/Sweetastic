@@ -8,8 +8,6 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
-    public final static String EXTRA_MESSAGE = "com.example.sweetastic.MESSAGE";
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,4 +24,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void paraPontos(View view){
+        Intent intent = new Intent(this, PontosActivity.class);
+        startActivity(intent);
+    }
 }

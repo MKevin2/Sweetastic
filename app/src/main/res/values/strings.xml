@@ -16,6 +16,16 @@
     <string name="aspectos_texto_5">• Ótimo desempenho e qualidade;</string>
     <string name="aspectos_texto_6">• Funcionam como substitutos do metal.</string>
 
+    <string name="titulo_pontos">PONTOS</string>
+    <string name="pontos_texto_1">Benefícios</string>
+    <string name="pontos_texto_2">Malefícios</string>
+    <string name="pontos_texto_3">Durabilidade</string>
+    <string name="pontos_texto_4">Pode ser reutilizado</string>
+    <string name="pontos_texto_5">Acúmulo de lixo</string>
+    <string name="pontos_texto_6">Poluição marítima</string>
+
+
+
 
     <string name="imagem_desc" />
 </resources>

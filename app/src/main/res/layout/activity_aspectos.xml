@@ -245,6 +245,7 @@
         android:layout_marginBottom="16dp"
         android:background="#00FFFFFF"
         android:contentDescription="@string/imagem_desc"
+        android:onClick="paraPontos"
         android:scaleType="fitStart"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -6,15 +6,15 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class AspectosActivity extends AppCompatActivity {
+public class PontosActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_aspectos);
+        setContentView(R.layout.activity_pontos);
     }
 
-    public void paraHome(View view) {
+    public void paraHome(View view){
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
@@ -24,9 +24,8 @@ public class AspectosActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void paraPontos(View view){
-        Intent intent = new Intent(this, PontosActivity.class);
+    public void paraAspectos(View view){
+        Intent intent = new Intent(this, AspectosActivity.class);
         startActivity(intent);
     }
-
 }
