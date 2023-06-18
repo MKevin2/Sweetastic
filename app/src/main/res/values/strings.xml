@@ -24,6 +24,14 @@
     <string name="pontos_texto_5">Acúmulo de lixo</string>
     <string name="pontos_texto_6">Poluição marítima</string>
 
+    <string name="titulo_reciclagem">RECICLAGEM</string>
+    <string name="reciclagem_texto_1">Recicláveis</string>
+    <string name="reciclagem_texto_2">Não recicláveis</string>
+    <string name="reciclagem_texto_3">Tomadas, tampas, garrafas, baldes, sacolas, frascos, brinquedos, pvc e baldes</string>
+    <string name="reciclagem_texto_4">Acrílicos, louça, isopor, adesivos, cabos de panela e teclados de computador</string>
+    <string name="reciclagem_texto_5">Reciclagem do Plástico</string>
+    <string name="reciclagem_texto_6">O tipo de reciclagem mais comum é a mecânica, onde o plástico passa por 3 processos para sua transformação, afim de ser granulado e estar apto em</string>
+    <string name="reciclagem_texto_7">se tornar matéria prima para novos produtos.</string>
 
 
 

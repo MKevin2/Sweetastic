@@ -172,6 +172,36 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="TextSizeCheck" />
 
+    <ImageView
+        android:id="@+id/aspectos_imagem"
+        android:layout_width="146dp"
+        android:layout_height="284dp"
+        android:layout_marginStart="224dp"
+        android:layout_marginTop="351dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginBottom="150dp"
+        android:contentDescription="@string/imagem_desc"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/aspectos_imagem_1" />
+
+    <ImageView
+        android:id="@+id/docinho_aspectos"
+        android:layout_width="193dp"
+        android:layout_height="195dp"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="243dp"
+        android:layout_marginBottom="347dp"
+        android:contentDescription="@string/imagem_desc"
+        android:rotation="-8"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/docinho_aspectos" />
+
     <ImageButton
         android:id="@+id/btnAspectos3"
         android:layout_width="49dp"
@@ -224,6 +254,7 @@
         android:layout_marginBottom="16dp"
         android:background="#00FFFFFF"
         android:contentDescription="@string/imagem_desc"
+        android:onClick="paraReciclagem"
         android:scaleType="fitStart"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -276,35 +307,5 @@
         app:srcCompat="@drawable/home_desselecionado"
         tools:ignore="SpeakableTextPresentCheck,ImageContrastCheck"
         tools:srcCompat="@drawable/home_desselecionado" />
-
-    <ImageView
-        android:id="@+id/aspectos_imagem"
-        android:layout_width="146dp"
-        android:layout_height="284dp"
-        android:layout_marginStart="224dp"
-        android:layout_marginTop="351dp"
-        android:layout_marginEnd="23dp"
-        android:layout_marginBottom="150dp"
-        android:contentDescription="@string/imagem_desc"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/aspectos_imagem_1" />
-
-    <ImageView
-        android:id="@+id/docinho_aspectos"
-        android:layout_width="193dp"
-        android:layout_height="195dp"
-        android:layout_marginStart="200dp"
-        android:layout_marginTop="243dp"
-        android:layout_marginBottom="347dp"
-        android:contentDescription="@string/imagem_desc"
-        android:rotation="-8"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/docinho_aspectos" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

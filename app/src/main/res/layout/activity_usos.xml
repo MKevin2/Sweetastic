@@ -111,6 +111,53 @@
         app:layout_constraintVertical_bias="0.0"
         tools:ignore="TextSizeCheck" />
 
+    <ImageView
+        android:id="@+id/usos_imagem_1"
+        android:layout_width="160dp"
+        android:layout_height="162dp"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="243dp"
+        android:layout_marginEnd="204dp"
+        android:layout_marginBottom="380dp"
+        android:contentDescription="@string/imagem_desc"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/usos_imagem_1" />
+
+    <ImageView
+        android:id="@+id/docinho_usos"
+        android:layout_width="160dp"
+        android:layout_height="162dp"
+        android:layout_marginStart="225dp"
+        android:layout_marginTop="105dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="518dp"
+        android:contentDescription="@string/imagem_desc"
+        android:rotationY="-178"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/docinho_usos" />
+
+    <ImageView
+        android:id="@+id/usos_imagem_2"
+        android:layout_width="160dp"
+        android:layout_height="162dp"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="243dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="380dp"
+        android:contentDescription="@string/imagem_desc"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/usos_imagem_2"
+        tools:ignore="ImageContrastCheck" />
+
     <ImageButton
         android:id="@+id/btnAspectos2"
         android:layout_width="49dp"
@@ -163,6 +210,7 @@
         android:layout_marginBottom="16dp"
         android:background="#00FFFFFF"
         android:contentDescription="@string/imagem_desc"
+        android:onClick="paraReciclagem"
         android:scaleType="fitStart"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -216,49 +264,4 @@
         tools:ignore="SpeakableTextPresentCheck,ImageContrastCheck"
         tools:srcCompat="@drawable/home_desselecionado" />
 
-    <ImageView
-        android:id="@+id/usos_imagem_1"
-        android:layout_width="160dp"
-        android:layout_height="162dp"
-        android:layout_marginStart="29dp"
-        android:layout_marginTop="243dp"
-        android:layout_marginEnd="204dp"
-        android:layout_marginBottom="380dp"
-        android:contentDescription="@string/imagem_desc"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/usos_imagem_1" />
-
-    <ImageView
-        android:id="@+id/usos_imagem_2"
-        android:layout_width="160dp"
-        android:layout_height="162dp"
-        android:layout_marginStart="200dp"
-        android:layout_marginTop="243dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginBottom="380dp"
-        android:contentDescription="@string/imagem_desc"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/usos_imagem_2" />
-
-    <ImageView
-        android:id="@+id/docinho_usos"
-        android:layout_width="160dp"
-        android:layout_height="162dp"
-        android:layout_marginStart="225dp"
-        android:layout_marginTop="105dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginBottom="518dp"
-        android:contentDescription="@string/imagem_desc"
-        android:rotationY="-178"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/docinho_usos" />
 </androidx.constraintlayout.widget.ConstraintLayout>

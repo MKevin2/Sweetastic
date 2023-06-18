@@ -28,4 +28,9 @@ public class UsosActivity extends AppCompatActivity {
         Intent intent = new Intent(this, PontosActivity.class);
         startActivity(intent);
     }
+
+    public void paraReciclagem(View view) {
+        Intent intent = new Intent(this, ReciclagemActivity.class);
+        startActivity(intent);
+    }
 }
