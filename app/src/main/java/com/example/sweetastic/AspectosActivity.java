@@ -29,8 +29,8 @@ public class AspectosActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void paraReciclagem(View view){
+    public void paraReciclagem(View view) {
         Intent intent = new Intent(this, ReciclagemActivity.class);
         startActivity(intent);
-
+    }
 }
