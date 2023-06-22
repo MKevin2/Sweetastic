@@ -78,6 +78,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/logo__2_"
         tools:ignore="ImageContrastCheck" />
 
@@ -309,5 +310,20 @@
         app:srcCompat="@drawable/casa_selecionado"
         tools:ignore="SpeakableTextPresentCheck,ImageContrastCheck"
         tools:srcCompat="@drawable/casa_selecionado" />
+
+    <TextView
+        android:id="@+id/nome_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="476dp"
+        android:layout_marginBottom="290dp"
+        android:text="@string/imagem_desc"
+        android:textColor="#003C25"
+        android:textColorHighlight="#003C25"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

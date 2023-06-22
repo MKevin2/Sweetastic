@@ -38,6 +38,10 @@
     <string name="reciclagem_texto_6">O tipo de reciclagem mais comum é a mecânica, onde o plástico passa por 3 processos para sua transformação, afim de ser granulado e estar apto em</string>
     <string name="reciclagem_texto_7">se tornar matéria prima para novos produtos.</string>
 
+    <string name="titulo_nome">Digite seu nome abaixo:</string>
+    <string name="nome_hint">Seu nome aqui</string>
+    <string name="button_text">Prosseguir</string>
+
     <!--Strings para o atributo "contentDescription" das imagens-->
     <string name="imagem_desc" />
 </resources>
