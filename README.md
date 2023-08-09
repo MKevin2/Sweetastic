@@ -1,5 +1,5 @@
 # Projeto de Aplicativo Mobile
-## Integrantes: Matheus Gama Russi e Matheus Kevin dos Santos
+## Integrantes: Matheus Kevin dos Santos e Pedro Pequini Santos
 
 **Nome do Aplicativo:** Sweetastic
 
@@ -11,4 +11,25 @@ possibilitando a navegação entre elas. O aplicativo tem a propósta de informa
 no dia-a-dia das pessoas, e a ideia é que a informação seja passada de maneira divertida e descontraida, portanto, o APP tem um mascote, 
 no caso. é a Docinho, dá série de desenhos "As Meninas Super Poderosas", que nos ajuda com essa propósta
 
-**Cores:** Tons de verde, branco, preto e creme (um tom de amarelo)
+<br>
+
+> **Cores:** Tons de verde, branco, preto e creme (um tom de amarelo)
+>> Verde claro: #5DB443
+> 
+>> Verde escuro: #003C25
+> 
+>> Creme: #FFF9A5
+> 
+>> Branco: #FFFFFF
+>
+>> Preto: #000000
+
+<br>
+
+**Logo do Aplicativo:**
+<br>
+  <img src="https://github.com/MKevin2/Sweetastic/blob/master/app/src/main/res/drawable/logo.png" width="230" height="230">
+
+  **Vídeo com o progresso até o momento:**
+  <br>
+  > Ocorreram alguns bugs de layout devido a diferença de tamanho do celular dos integrantes
