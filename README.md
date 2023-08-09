@@ -30,6 +30,26 @@ no caso. é a Docinho, dá série de desenhos "As Meninas Super Poderosas", que 
 <br>
   <img src="https://github.com/MKevin2/Sweetastic/blob/master/app/src/main/res/drawable/logo.png" width="230" height="230">
 
-  **Vídeo com o progresso até o momento:**
-  <br>
-  > Ocorreram alguns bugs de layout devido a diferença de tamanho do celular dos integrantes
+**Adições:**
+
+>> 1. Novas telas
+>
+>> 2. Novos botões para a navegação entre telas
+>
+>> 3. Novos itens em geral, como TextViews, ImageViews, VideoView, entre outros. (explicado posteriormente)
+
+1.1. **História**
+<p>
+Na tela principal, que aparece inicialmente quando se abre o app, será adicionado um novo botão abaixo do título “Plástico”, que levará o usuário para uma nova tela, que explicará detalhadamente com imagens e textos sobre a história do plástico, seguindo os mesmos padrões das demais telas, com o mesmo intuito de informar o usuário.</p>
+
+1.2. **Curiosidades**
+<p>
+Na tela “Aspectos” será adicionado um botão acima da ImageView, que levará o usuário para uma outra tela, que será utilizada para mostrar curiosidades sobre o plástico, também utilizando TextViews e ImageViews para melhor representação e entendimento do conteúdo.</p>
+
+1.3. **Possíveis criações** 
+<p>
+Na tela “Usos”, do lado do próprio título, será adicionado outro botão, que redirecionará o usuário para uma nova tela, que servirá para mostrar e sugerir possíveis criações utilizando o plástico, com o intuito de ajudar com uma forma alternativa de Reciclagem. Será utilizado TextViews, ImageViews, VideoViews/ e ou links para vídeos explicativos/tutoriais de criações.</p>
+
+**Diagrama de Classes:**
+<br>
+  <img src="" widht="300" height="300">
