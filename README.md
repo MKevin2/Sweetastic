@@ -52,4 +52,4 @@ Na tela “Usos”, do lado do próprio título, será adicionado outro botão, 
 
 **Diagrama de Classes:**
 <br>
-  <img src="" widht="300" height="300">
+  <img src="https://github.com/MKevin2/Sweetastic/blob/master/IMG-20230808-WA0011.jpg" widht="260" height="280">
