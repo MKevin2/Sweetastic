@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Sweetastic</string>
+    <!--Strings da MainActivity-->
+    <string name="titulo_home">PLÁSTICO</string>
+    <string name="subtitulo">Uso e suas características</string>
+
+    <!--Strings da UsosActivity-->
+    <string name="titulo_usos">USOS</string>
+    <string name="usos_botao">Crie Você Mesmo!</string>
+    <string name="usos_texto_1">    O plástico é usado para milhares coisas e muitas delas estão presentes no nosso dia-a-dia.</string>
+    <string name="usos_texto_2">As principais aplicações para o plástico são:</string>
+    <string name="usos_texto_3">Pode ser utilizado em embalagens, como de bolsas, garrafas, caixas, alimentos em geral, embalagens destinados a compostos químicos, frascos, rolhas, tampas, cápsulas, além de isolantes para fios e peças automobilísticas</string>
+
+    <!--Strings da IdeiaActivity-->
+    <string name="titulo_ideia1">IDEIAS</string>
+    <string name="titulo_ideia2">Tente em Casa, e Ajude o Meio Ambiente!</string>
+    <string name="titulo_ideia3">1. CARRINHO DE TAMPINHA</string>
+    <string name="titulo_ideia4">2. AVIÃO DE GARRAFA PET</string>
+
+    <!--Strings da AspectosActivity-->
+    <string name="titulo_aspectos">ASPECTOS</string>
+    <string name="aspectos_texto_1">   O plástico possui diversas características, o que explica o fato dele ser tão utilizado. As principais são as seguintes:</string>
+    <string name="aspectos_texto_2">•   Possui grande maleabilidade podendo se adaptar em vários formatos;</string>
+    <string name="aspectos_texto_3">• É um material de baixo custo;</string>
+    <string name="aspectos_texto_4">• Tem boa resistência;</string>
+    <string name="aspectos_texto_5">• Ótimo desempenho e qualidade;</string>
+    <string name="aspectos_texto_6">• Funcionam como substitutos do metal.</string>
+
+    <!--Strings da PontosActivity-->
+    <string name="titulo_pontos">PONTOS</string>
+    <string name="pontos_texto_1">Benéficos</string>
+    <string name="pontos_texto_2">Maléficos</string>
+    <string name="pontos_texto_3">Durabilidade</string>
+    <string name="pontos_texto_4">Pode ser reutilizado</string>
+    <string name="pontos_texto_5">Acúmulo de lixo</string>
+    <string name="pontos_texto_6">Poluição marítima</string>
+
+    <!--Strings da ReciclagemActivity-->
+    <string name="titulo_reciclagem">RECICLAGEM</string>
+    <string name="reciclagem_texto_1">Recicláveis</string>
+    <string name="reciclagem_texto_2">Não recicláveis</string>
+    <string name="recicla_botao">Pontos de Coleta!</string>
+    <string name="reciclagem_texto_3">Tomadas, tampas, garrafas, baldes, sacolas, frascos, brinquedos, pvc e baldes</string>
+    <string name="reciclagem_texto_4">Acrílicos, louça, isopor, adesivos, cabos de panela e teclados de computador</string>
+    <string name="reciclagem_texto_5">Reciclagem do Plástico</string>
+    <string name="reciclagem_texto_6">  O tipo de reciclagem mais comum é a mecânica, onde o plástico passa por 3 processos para sua transformação, afim de ser granulado e estar apto então, para</string>
+    <string name="reciclagem_texto_7">se tornar matéria prima para novos produtos.</string>
+
+    <!--Strings da HistoriaActivity-->
+    <string name="titulo_pontoreciclagem">PONTOS DE RECICLAGEM</string>
+    <string name="titulo_pontoreciclagem2">Descarte Consciente Também!</string>
+    <string name="botao_pontoreciclagem2">Pesquisar Ecopontos!</string>
+    <string name="botao_pontoreciclagem">Pesquise no Mapa!</string>
+    <string name="texto_pontoreciclagem"> São áreas instaladas em local adequado para o recebimento de descartes. Os Pontos de Reciclagem são fundamentais para apreservação do Meio Ambiente!</string>
+
+    <!--Strings da NomeActivity-->
+    <string name="titulo_nome">Digite seu nome abaixo:</string>
+    <string name="nome_hint">Seu Nome Aqui:</string>
+    <string name="button_text">Prosseguir</string>
+
+    <!--Strings da HistoriaActivity-->
+    <string name="titulo_hist">HISTÓRIA</string>
+    <string name="saibamais">Saiba Mais!</string>
+    <string name="videohist">ASSISTA AO VÍDEO A SEGUIR:</string>
+    <string name="videohist2">Canal: Invenções da História</string>
+    <string name="historia_texto_1">Ao que tudo indica a sua história tem início em 1862 com o Alexander Parkes, um químico e inventor que apresentou ao mundo um material orgânico derivado da celulose que era impermeável e flexível, isto é, podia ser moldado ao ser aquecido e continuava com a forma moldada ao ser esfriado.</string>
+
+    <!--Strings para o atributo "contentDescription" das imagens-->
+    <string name="imagem_desc" />
+</resources>
