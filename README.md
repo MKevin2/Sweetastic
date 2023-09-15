@@ -1,5 +1,5 @@
 # Projeto de Aplicativo Mobile
-## Integrantes: Matheus Kevin dos Santos e Matheus Gama Russi
+## Integrantes: Matheus Kevin dos Santos e Matheus Gama Russi - 2° Bimestre
 
 **Nome do Aplicativo:** Sweetastic
 
