@@ -1,5 +1,5 @@
 # Projeto de Aplicativo Mobile
-## Integrantes: Matheus Kevin dos Santos e Pedro Pequini Santos
+## Integrantes: Matheus Kevin dos Santos e Matheus Gama Russi
 
 **Nome do Aplicativo:** Sweetastic
 
@@ -30,25 +30,39 @@ no caso. é a Docinho, dá série de desenhos "As Meninas Super Poderosas", que 
 <br>
   <img src="https://github.com/MKevin2/Sweetastic/blob/master/app/src/main/res/drawable/logo.png" width="230" height="230">
 
-**Adições:**
+**Criação do Aplicativo:**
 
->> 1. Novas telas
+>> 1. 5 Telas Criadas (Aspectos, Main, Pontos,Reciclagem, Usos)
 >
->> 2. Novos botões para a navegação entre telas
+>> 2. Botões para a navegação entre telas (Intents Explícitas)
 >
->> 3. Novos itens em geral, como TextViews, ImageViews, VideoView, entre outros. (explicado posteriormente)
+>> 3. TextViews, ImageViews, VideoView, ButtonImage, EditText, entre outros elementos para compor as telas
 
-1.1. **História**
+## Informações das telas
+1.1. **Aspectos** 
 <p>
-Na tela principal, que aparece inicialmente quando se abre o app, será adicionado um novo botão abaixo do título “Plástico”, que levará o usuário para uma nova tela, que explicará detalhadamente com imagens e textos sobre a história do plástico, seguindo os mesmos padrões das demais telas, com o mesmo intuito de informar o usuário.</p>
+  Na tela “Aspectos”, há a explicação de algumas características presentes no plástico, como ser um material de baixo custo, ter uma boa resistência, e ser um "concorrente" do metal, podendo o substituir. 
+</p>
 
-1.2. **Curiosidades**
+1.2. **Main** 
 <p>
-Na tela “Aspectos” será adicionado um botão acima da ImageView, que levará o usuário para uma outra tela, que será utilizada para mostrar curiosidades sobre o plástico, também utilizando TextViews e ImageViews para melhor representação e entendimento do conteúdo.</p>
+  Na tela "Main", possui o título da aplicação, a logo (desenvolvida no SmashingLogo) e os botões de navegação. O foco principal foi apresentar o aplicativo e nossa identidade visual. 
+</p>
 
-1.3. **Possíveis criações** 
+1.3. **Pontos** 
 <p>
-Na tela “Usos”, do lado do próprio título, será adicionado outro botão, que redirecionará o usuário para uma nova tela, que servirá para mostrar e sugerir possíveis criações utilizando o plástico, com o intuito de ajudar com uma forma alternativa de Reciclagem. Será utilizado TextViews, ImageViews, VideoViews/ e ou links para vídeos explicativos/tutoriais de criações.</p>
+  Na tela "Pontos", contém imagens que complementam as informações abordadas sobre o ônus e o bônus da utlização do plástico. Exemplo de benefício: Durabilidade. Exemplo de malefícios: Poluição marítima.
+</p>
+
+1.4. **Reciclagem** 
+<p>
+  Na tela "Reciclagem", é presente alguns elementos que apresentam quais são os tipos de materiais que são recicláveis ou não. Exemplo de reciclãveis: tomadas,tampas e garrafas. Exemplos de não recicláveis: acrílicos, louça e isopor. Não deixando de citar a forma mais comum de reciclar.  
+</p>
+
+1.5. **Usos** 
+<p>
+  Na tela "Usos", são exibidas informações sobre onde utilizar o plástico que seria descartado posteriormente, utilizando-o em embalagens, bolsas, caixas, acessórios, como forma de "reciclagem" doméstica.     
+</p>
 
 **Diagrama de Classes:**
 <br>
