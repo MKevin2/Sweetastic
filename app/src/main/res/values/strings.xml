@@ -2,6 +2,7 @@
     <string name="app_name">Sweetastic</string>
     <!--Strings da MainActivity-->
     <string name="titulo_home">PLÁSTICO</string>
+    <string name="botao_jogo">Jogos!</string>
     <string name="subtitulo">Uso e suas características</string>
 
     <!--Strings da UsosActivity-->
