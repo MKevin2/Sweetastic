@@ -244,7 +244,7 @@
 
     </FrameLayout>
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/imageView3"
         android:layout_width="119dp"
         android:layout_height="299dp"

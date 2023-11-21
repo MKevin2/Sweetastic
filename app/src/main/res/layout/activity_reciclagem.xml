@@ -211,7 +211,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="TextSizeCheck" />
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/reciclagem_imagem_1"
         android:layout_width="155dp"
         android:layout_height="156dp"
@@ -226,7 +226,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/reciclagem_imagem_1" />
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/reciclagem_imagem_2"
         android:layout_width="155dp"
         android:layout_height="156dp"

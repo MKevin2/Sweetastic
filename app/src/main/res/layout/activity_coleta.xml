@@ -166,7 +166,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="TextSizeCheck" />
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/pontorsecicla_imagem"
         android:layout_width="185dp"
         android:layout_height="121dp"

@@ -43,9 +43,15 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void paraSensor(View view){
+        Intent intent = new Intent(this, SensorActivity.class);
+        startActivity(intent);
+    }
+
     public void JogosRecicla (View view){
         Uri uri = Uri.parse("https://wordwall.net/pt-br/community/reciclagem-de-pl%C3%A1stico");
         Intent Jogos = new Intent(Intent.ACTION_VIEW,uri);
         startActivity(Jogos);
     }
+
 }

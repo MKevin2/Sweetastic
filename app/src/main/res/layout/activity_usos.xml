@@ -131,7 +131,7 @@
         app:layout_constraintVertical_bias="0.0"
         tools:ignore="TextSizeCheck" />
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/usos_imagem_1"
         android:layout_width="160dp"
         android:layout_height="162dp"
@@ -146,7 +146,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/usos_imagem_1" />
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/usos_imagem_2"
         android:layout_width="160dp"
         android:layout_height="162dp"

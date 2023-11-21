@@ -167,7 +167,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="TextSizeCheck" />
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/pontos_imagem_1"
         android:layout_width="155dp"
         android:layout_height="156dp"
@@ -182,7 +182,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/pontos_imagem_2" />
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/pontos_imagem_2"
         android:layout_width="155dp"
         android:layout_height="156dp"
@@ -197,7 +197,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/pontos_imagem_4" />
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/pontos_imagem_3"
         android:layout_width="155dp"
         android:layout_height="156dp"
@@ -212,7 +212,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/pontos_imagem_3" />
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/pontos_imagem_4"
         android:layout_width="155dp"
         android:layout_height="156dp"
@@ -242,7 +242,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/docinho_pontos_1" />
 
-    <ImageView
+    <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/docinho_pontos_2"
         android:layout_width="160dp"
         android:layout_height="162dp"
@@ -363,4 +363,5 @@
         app:srcCompat="@drawable/aspectos_desselecionado"
         tools:ignore="SpeakableTextPresentCheck"
         tools:srcCompat="@drawable/aspectos_desselecionado" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
