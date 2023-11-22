@@ -81,20 +81,6 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="TextSizeCheck" />
 
-    <ImageView
-        android:id="@+id/imageView4"
-        android:layout_width="174dp"
-        android:layout_height="272dp"
-        android:layout_marginStart="122dp"
-        android:layout_marginTop="423dp"
-        android:layout_marginEnd="115dp"
-        android:layout_marginBottom="36dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/docinho_aspectos" />
-
     <Button
         android:id="@+id/btnVoltar"
         android:layout_width="166dp"
@@ -102,7 +88,7 @@
         android:layout_marginStart="122dp"
         android:layout_marginTop="602dp"
         android:layout_marginEnd="123dp"
-        android:layout_marginBottom="77dp"
+        android:layout_marginBottom="40dp"
         android:backgroundTint="#003C35"
         android:onClick="paraMain"
         android:text="@string/button_text2"
@@ -117,18 +103,30 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/imageView6"
+        android:id="@+id/imageView4"
         android:layout_width="174dp"
         android:layout_height="272dp"
         android:layout_marginStart="122dp"
         android:layout_marginTop="423dp"
         android:layout_marginEnd="115dp"
-        android:layout_marginBottom="36dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/docinho_aspectos" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="226dp"
+        android:layout_height="130dp"
+        android:layout_marginStart="92dp"
+        android:layout_marginTop="326dp"
+        android:layout_marginEnd="93dp"
+        android:layout_marginBottom="268dp"
+        android:src="@drawable/docinho3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/folha15"
@@ -192,4 +190,22 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/foia"
         tools:ignore="ImageContrastCheck" />
+
+    <TextView
+        android:id="@+id/id_luz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="148dp"
+        android:layout_marginTop="487dp"
+        android:layout_marginEnd="148dp"
+        android:layout_marginBottom="233dp"
+        android:text="TextView"
+        android:textAllCaps="true"
+        android:textColor="#003C35"
+        android:textSize="23sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

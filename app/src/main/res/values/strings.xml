@@ -58,7 +58,7 @@
 
     <!--Strings da NomeActivity-->
     <string name="titulo_nome">Digite seu nome abaixo:</string>
-    <string name="nome_hint">Digite para continuar:</string>
+    <string name="nome_hint">Digite para prosseguir:</string>
     <string name="button_text">Prosseguir</string>
 
     <!--Strings da HistoriaActivity-->
@@ -74,5 +74,5 @@
     <!--Strings da SensorActivity-->
     <string name="titulo_sensor">SENSOR DE LUZ</string>
     <string name="button_text2">Retornar</string>
-    <string name="text1_sensor">Cada smartphone possui grande diversidade de sensores, porém o que será aproveitado no aplicativo, é o de Luz, e para uma melhor experiência, é necessário permitir que o seu acesso, e assim usufluir das funcionalidades totais da aplicação, Bons Estudos!</string>
+    <string name="text1_sensor">Cada smartphone possui grande diversidade de sensores, porém o que será aproveitado no aplicativo, é o de Luz, e para ter uma experiência com este sensor, é necessário permitir acesso, e assim descobrir os níveis de luminosidade presentes no ambiente, Boa Experiência!</string>
 </resources>
