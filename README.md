@@ -74,8 +74,22 @@ Link do vídeo do funcionamento atualizado do aplicativo:
 >ADIÇÕES:
 
 >> Zoom In/Zoom Out em imagens <br>
->> Nova tela "Sensor" com o Sensor de luz <br>
+>> Nova tela "Sensor" com o Sensor de Luz <br>
 >> Toast na tela "Home" de boas vindas 
 
 Link do vídeo do funcionamento atualizado do aplicativo:  
 [Aplicativo Sweetastic - APP PAMI 4Bimestre](https://youtu.be/F7CjhElmIx4?feature=shared) 👈
+
+# Passos para o Uso do Sensor de Luz:
+
+1. <p> Pedir permissão no arquivo "Manifest" para seu uso no "uses-permission". </p>
+
+2. <p> Criar um "SensorEventListener" com todas as variáveis que vão ser utilizadas para extrair e apresentar as informações do sensor. </p>
+
+3. <p> Definir o que cada variável vai receber, por exemplo a "txt_luz" que recebe o valor dado pelo sensor. </p>
+
+4. <p> Colocar uma condição para que se o sensor esteja nulo (ou seja, o usuário não permitiu) encerre as operações ali. </p>
+
+5. <p> Colocar em uso o sensor criando uma variável "luz" que vai extrair do sensor os números apresentados na tela </p>
+
+6. <p> Adicionar condições para que a cada variação da taxa de luminosidade, troque a cor progredindo de cores mais tranquilas até cores mais vibrantes para uma interação. </p>
