@@ -1,5 +1,5 @@
 # Projeto de Aplicativo Mobile
-## Integrantes: Matheus Kevin dos Santos e Pedro Santos Pequini- 3° Bimestre
+## Integrantes: Matheus Kevin dos Santos e Pedro Santos Pequini- 4° Bimestre
 
 **Nome do Aplicativo:** Sweetastic
 
