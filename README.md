@@ -68,3 +68,14 @@ no caso. é a Docinho, dá série de desenhos "As Meninas Super Poderosas", que 
 <br>
 Link do vídeo do funcionamento atualizado do aplicativo:  
 [Aplicativo Sweetastic - APP PAMI 3Bimestre](https://youtu.be/bhckaZixTjE?si=5lLjrHaxY6rOlY2B) 👈
+
+**4° BIMESTRE - SENSORES:**
+
+>ADIÇÕES:
+
+>> Zoom In/Zoom Out em imagens
+>> Nova tela "Sensor" com o Sensor de luz
+>> Toast na tela "Home" de boas vindas
+
+Link do vídeo do funcionamento atualizado do aplicativo:  
+[Aplicativo Sweetastic - APP PAMI 4Bimestre](https://youtu.be/F7CjhElmIx4?feature=shared) 👈
