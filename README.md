@@ -73,9 +73,9 @@ Link do vídeo do funcionamento atualizado do aplicativo:
 
 >ADIÇÕES:
 
->> Zoom In/Zoom Out em imagens
->> Nova tela "Sensor" com o Sensor de luz
->> Toast na tela "Home" de boas vindas
+>> Zoom In/Zoom Out em imagens <br>
+>> Nova tela "Sensor" com o Sensor de luz <br>
+>> Toast na tela "Home" de boas vindas 
 
 Link do vídeo do funcionamento atualizado do aplicativo:  
 [Aplicativo Sweetastic - APP PAMI 4Bimestre](https://youtu.be/F7CjhElmIx4?feature=shared) 👈
